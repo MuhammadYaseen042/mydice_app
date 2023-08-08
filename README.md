@@ -1,6 +1,6 @@
 # mydice_app
 
-A new Flutter project.
+A new Flutter project. which is i created using the latest version 
 
 ## Getting Started
 
